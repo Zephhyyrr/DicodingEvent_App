@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Dicoding Event</string>
+    <string name="judul_event">Judul Event</string>
+    <string name="deskripsi_event">Deskripsi Event</string>
+    <string name="selengkapnya">Selengkapnya</string>
+    <string name="title">Dicoding Event</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="finished_event">Finished Event</string>
+    <string name="nama_penyelenggara">Nama Penyelenggara</string>
+    <string name="isi_deskripsi">Isi Deskripsi</string>
+    <string name="register">Register</string>
+    <string name="jadwal_acara">Jadwal Acara</string>
+    <string name="ini_waktu_acara">Ini waktu acara</string>
+    <string name="sisa_kouta">Sisa Kouta</string>
+    <string name="ini_jumlah_kouta">Ini Jumlah Kouta</string>
+    <string name="title_kota">Kota :</string>
+    <string name="ini_kota">Ini Kota</string>
+    <string name="event_date_format">%1$s - %2$s %3$s : %4$s</string>
+    <string name="event_date_error">Invalid date format</string>
+    <string name="setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="ganti_mode_tema">Ganti mode tema</string>
+    <string name="favorite">Favorite</string>
+    <string name="finished">Finished</string>
+    <string name="notifikasi">Notifikasi</string>
+    <string name="float_favorite">Float Favorite</string>
+    <string name="detail">Detail</string>
+    <string name="image">image</string>
+    <string name="switch_notify">Switch Notify</string>
+</resources>
